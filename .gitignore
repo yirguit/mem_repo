@@ -1,0 +1,3 @@
+#Ignore File and directories locally
+*.bak
+tmp/*
